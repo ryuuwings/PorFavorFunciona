@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fruteria Alberia</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_to_request">List of Fruits</string>
+    <string name="title_activity_nueva">NuevaActivity</string>
+    <string name="title_activity_product">Product</string>
+
+    <string name="idNumber">products ID</string>
+    <string name="error_blank_input">must put a valid ID</string>
+    <string name="error_invalid_number">id between 1 and 9</string>
+</resources>
